@@ -6,8 +6,8 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 ---
 
 ## 📸 Demo Screenshot
-![Game Screenshot](<img width="445" height="413" alt="image" src="https://github.com/user-attachments/assets/4146d7b1-70ce-48c7-9bad-27a798ad02eb" />
-) <!-- Replace with actual image if available -->
+![Game Screenshot]<img width="445" height="413" alt="image" src="https://github.com/user-attachments/assets/4ff52efa-52b4-4cba-aa51-0756c2a9c8a0" />
+ <!-- Replace with actual image if available -->
 
 ---
 
